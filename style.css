@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-/* Test */
-=======
 
 *{
     margin: 0; padding: 0;
@@ -19,7 +16,7 @@ body {
 .container .button{
     display: inline-block;
     width:80px;height:80px;
-    float: left;
+    /* float: left; */
     margin: 0 5px;
     /* PICTURE BELOW */
     background: lightblue; 
@@ -51,12 +48,3 @@ body {
     line-height: 60px;
     margin-left: 10px;
 }
-
-
-
-/* .tree{
-    width: 300px; height:300px;
-    color:magenta;
-    display: block;
-} */
->>>>>>> Stashed changes
